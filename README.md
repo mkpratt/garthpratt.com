@@ -1,2 +1,2 @@
 # garthpratt.com
-Portfolio website for Garth Pratt/
+Portfolio website for Garth Pratt.
